@@ -1,0 +1,32 @@
+{
+  "name": "llbuild-console-ui",
+  "version": "0.0.1",
+  "description": "Console UI for llbuild",
+  "homepage": "https://github.com/drjokepu/llbuild-console-ui",
+  "bugs": "https://github.com/drjokepu/llbuild-console-ui/issues",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drjokepu/llbuild-console-ui.git"
+  },
+  "author": "Tamas Czinege <tomi.czinege@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "0.1.81"
+  },
+  "devDependencies": {
+    "llbuild": "0.0.12"
+  },
+  "peerDependencies": {
+    "llbuild": ">=0.0.12 <0.1.0"
+  },
+  "engines": {
+    "node": ">=6.9.1"
+  }
+}
