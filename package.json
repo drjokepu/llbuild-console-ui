@@ -1,6 +1,6 @@
 {
   "name": "llbuild-console-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Console UI for llbuild",
   "homepage": "https://github.com/drjokepu/llbuild-console-ui",
   "bugs": "https://github.com/drjokepu/llbuild-console-ui/issues",
