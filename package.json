@@ -21,11 +21,11 @@
   "license": "MIT",
   "dependencies": {
     "blessed": "0.1.81",
-    "moment": "2.17.0"
+    "moment": "2.18.1"
   },
   "devDependencies": {
-    "cli-color": "1.1.0",
-    "llbuild": "0.0.13"
+    "cli-color": "1.2.0",
+    "llbuild": "0.0.14"
   },
   "peerDependencies": {
     "llbuild": ">=0.0.13 <0.1.0"
